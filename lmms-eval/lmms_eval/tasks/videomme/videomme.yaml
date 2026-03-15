@@ -1,4 +1,4 @@
-dataset_path: /mnt/afs/huangtao/intern/libingzhou/HF_DOWN/videomme/videomme
+dataset_path: lmms-lab/VideoMME
 dataset_kwargs:
   token: False
   cache_dir: videomme
